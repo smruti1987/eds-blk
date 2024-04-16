@@ -15,8 +15,7 @@
       "text",
       "image",
       "button",
-      "title",
-      "card2"
+      "title"
     ]
   },
   {
@@ -30,15 +29,13 @@
       "cards",
       "columns",
       "fragment",
-      "contentfragment",
-      "card2"
+      "contentfragment"
     ]
   },
   {
     "id": "cards",
     "components": [
-      "card",
-      "card2"
+      "card"
     ]
   }
 ]
