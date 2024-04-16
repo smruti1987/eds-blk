@@ -188,13 +188,13 @@ main img {
 /* sections */
 main .section {
   padding: 64px 16px;
-  background-color:red;
+  background-color: var(--light-color);
 }
 
 @media (width >= 600px) {
   main .section {
     padding: 64px 32px;
-    background-color:green;
+   background-color: var(--link-hover-color);
   }
 }
 
@@ -202,7 +202,7 @@ main .section {
   .section > div {
     max-width: 1200px;
     margin: auto;
-    background-color:blue;
+   background-color: var(--link-hover-color);
   }
 }
 
