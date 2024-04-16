@@ -29,13 +29,15 @@
       "cards",
       "columns",
       "fragment",
-      "contentfragment"
+      "contentfragment",
+      "card2"
     ]
   },
   {
     "id": "cards",
     "components": [
-      "card"
+      "card",
+      "card2"
     ]
   }
 ]
