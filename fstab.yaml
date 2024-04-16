@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/bin/franklin.delivery/smruti1987/eds-blk/main"
+    url: "https://author-p11802-e21402.adobeaemcloud.com/bin/franklin.delivery/smruti1987/eds-blk/main"
     type: "markup"
     suffix: ".html"
